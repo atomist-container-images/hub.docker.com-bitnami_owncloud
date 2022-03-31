@@ -1,12 +1,15 @@
-# Tags: latest, 10.9.1-debian-10-r72, 10.9.1, 10-debian-10, 10
+# Tags: latest, 10.9.1-debian-10-r73, 10.9.1, 10-debian-10, 10
 FROM bitnami/owncloud:latest
-FROM bitnami/owncloud:10.9.1-debian-10-r72
+FROM bitnami/owncloud:10.9.1-debian-10-r73
 FROM bitnami/owncloud:10.9.1
 FROM bitnami/owncloud:10-debian-10
 FROM bitnami/owncloud:10
 
 # Tags: _
 FROM bitnami/owncloud:_
+
+# Tags: 10.9.1-debian-10-r72
+FROM bitnami/owncloud:10.9.1-debian-10-r72
 
 # Tags: 10.9.1-debian-10-r71
 FROM bitnami/owncloud:10.9.1-debian-10-r71
