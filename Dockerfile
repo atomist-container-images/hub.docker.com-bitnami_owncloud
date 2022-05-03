@@ -91,6 +91,3 @@ FROM bitnami/owncloud:10.9.1-debian-10-r77
 
 # Tags: 10.9.1-debian-10-r76
 FROM bitnami/owncloud:10.9.1-debian-10-r76
-
-# Tags: 10.9.1-debian-10-r75
-FROM bitnami/owncloud:10.9.1-debian-10-r75
