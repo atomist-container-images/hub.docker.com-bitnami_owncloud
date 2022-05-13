@@ -1,12 +1,42 @@
-# Tags: latest, 10.9.1-debian-10-r104, 10.9.1, 10-debian-10, 10
+# Tags: latest, 10.9.1-debian-10-r114, 10.9.1, 10-debian-10, 10
 FROM bitnami/owncloud:latest
-FROM bitnami/owncloud:10.9.1-debian-10-r104
+FROM bitnami/owncloud:10.9.1-debian-10-r114
 FROM bitnami/owncloud:10.9.1
 FROM bitnami/owncloud:10-debian-10
 FROM bitnami/owncloud:10
 
 # Tags: _
 FROM bitnami/owncloud:_
+
+# Tags: 10.9.1-debian-10-r113
+FROM bitnami/owncloud:10.9.1-debian-10-r113
+
+# Tags: 10.9.1-debian-10-r112
+FROM bitnami/owncloud:10.9.1-debian-10-r112
+
+# Tags: 10.9.1-debian-10-r111
+FROM bitnami/owncloud:10.9.1-debian-10-r111
+
+# Tags: 10.9.1-debian-10-r110
+FROM bitnami/owncloud:10.9.1-debian-10-r110
+
+# Tags: 10.9.1-debian-10-r109
+FROM bitnami/owncloud:10.9.1-debian-10-r109
+
+# Tags: 10.9.1-debian-10-r108
+FROM bitnami/owncloud:10.9.1-debian-10-r108
+
+# Tags: 10.9.1-debian-10-r107
+FROM bitnami/owncloud:10.9.1-debian-10-r107
+
+# Tags: 10.9.1-debian-10-r106
+FROM bitnami/owncloud:10.9.1-debian-10-r106
+
+# Tags: 10.9.1-debian-10-r105
+FROM bitnami/owncloud:10.9.1-debian-10-r105
+
+# Tags: 10.9.1-debian-10-r104
+FROM bitnami/owncloud:10.9.1-debian-10-r104
 
 # Tags: 10.9.1-debian-10-r103
 FROM bitnami/owncloud:10.9.1-debian-10-r103
@@ -61,33 +91,3 @@ FROM bitnami/owncloud:10.9.1-debian-10-r87
 
 # Tags: 10.9.1-debian-10-r86
 FROM bitnami/owncloud:10.9.1-debian-10-r86
-
-# Tags: 10.9.1-debian-10-r85
-FROM bitnami/owncloud:10.9.1-debian-10-r85
-
-# Tags: 10.9.1-debian-10-r84
-FROM bitnami/owncloud:10.9.1-debian-10-r84
-
-# Tags: 10.9.1-debian-10-r83
-FROM bitnami/owncloud:10.9.1-debian-10-r83
-
-# Tags: 10.9.1-debian-10-r82
-FROM bitnami/owncloud:10.9.1-debian-10-r82
-
-# Tags: 10.9.1-debian-10-r81
-FROM bitnami/owncloud:10.9.1-debian-10-r81
-
-# Tags: 10.9.1-debian-10-r80
-FROM bitnami/owncloud:10.9.1-debian-10-r80
-
-# Tags: 10.9.1-debian-10-r79
-FROM bitnami/owncloud:10.9.1-debian-10-r79
-
-# Tags: 10.9.1-debian-10-r78
-FROM bitnami/owncloud:10.9.1-debian-10-r78
-
-# Tags: 10.9.1-debian-10-r77
-FROM bitnami/owncloud:10.9.1-debian-10-r77
-
-# Tags: 10.9.1-debian-10-r76
-FROM bitnami/owncloud:10.9.1-debian-10-r76
